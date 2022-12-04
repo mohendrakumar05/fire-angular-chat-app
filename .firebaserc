@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "chat-app-db-1301c": {
+      "hosting": {
+        "app": [
+          "chat-app-db-1301c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "chat-app-db-1301c"
+  }
+}
